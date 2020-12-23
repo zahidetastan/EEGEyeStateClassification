@@ -1,4 +1,4 @@
-# dataMiningProject 
+# DataMiningProject 
 
 # Problem Definition
   - EEG Eye State identification is a kind of common classification problem.
@@ -31,6 +31,6 @@
  - Artificial Neural Network with 2 hidden layer: Holdout, bagging and boosting methods for ANN with 2 hidden layer.
  - Support Vector Machines: Holdout, bagging and boosting methods for Support Vector Machines.
   
-#Conclusion
+# Conclusion
 
    ![Screenshot](imgs/conc.png)
