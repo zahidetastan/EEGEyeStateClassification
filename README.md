@@ -21,5 +21,16 @@
   - Number of attributes(columns) are 15. 
     
     ![Screenshot](imgs/eegeye.jpg)
-
     
+# Implementation Details 
+ ## Classification Models and Applied Methods
+ - Decision Tree using Gain Ratio: Holdout, bagging and boosting methods for Gain Ratio.
+ - Decision Tree using Gini Index: Holdout, bagging and boosting methods for Gini Index.
+ - Naive Bayes: Holdout, cross validation, bagging and boosting methods for Naive Bayes. 
+ - Artificial Neural Network with 1 hidden layer: Holdout, bagging and boosting methods for ANN with 1 hidden layer. 
+ - Artificial Neural Network with 2 hidden layer: Holdout, bagging and boosting methods for ANN with 2 hidden layer.
+ - Support Vector Machines: Holdout, bagging and boosting methods for Support Vector Machines.
+  
+#Conclusion
+
+   ![Screenshot](imgs/conc.png)
