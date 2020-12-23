@@ -20,6 +20,6 @@
   - Number of instances(rows) are 14980.
   - Number of attributes(columns) are 15. 
     
-    ![Screenshot](imgs/eegeye.png)
+    ![Screenshot](imgs/eegeye.jpg)
 
     
